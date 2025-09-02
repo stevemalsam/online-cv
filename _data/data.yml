@@ -92,6 +92,26 @@ experiences:
         - Migrated Java-based legacy code to Kotlin and Modern Android architecture using Jetpack libraries, implementing LiveData and ViewModels for state management, decreasing APK size by 35%.
         - Integrated Espresso based UI testing into Jenkins CI pipeline, reducing manual regressing testing.
 
+  - role: Senior Software Engineer
+    time: 2017 - 2019
+    company: Ghost Management Group, Irvine, CA
+    details: |
+      At Ghost Management Group, I worked as an iOS Engineer on a team developing a mobile app for locating marijuana dispensaries and other associated services, with over 1 Million MAU. The app allowed the user to search for providers in their area, browse menus, and place orders for pickup or delivery.
+      - Developed iOS app in Swift and UIKit used by over 1M MAU. Integrated CoreLocation and MapKit for real-time geospatial search functionality.
+      - Increased MAU by 15\% by leading accessibility enhancement project, implementing VoiceOver support, dynamic type scaling and haptic feedback for improved user experience for those with disabilities.
+      - Integrated location-based services, ensuring compliance with state and federal regulations.
+      - Collaborated with cross-functional teams to design and implement REST and GraphQL endpoints for performant fetching of listings.
+
+  - role: Mobile Developer
+    time: 2015 - 2017
+    company: We are ENVOY, Irvine, CA
+    details: |
+      At We are ENVOY, I worked as an Android Developer on a team developing the Vizio SmartCast app, an app for controlling and casting to Vizio Smart TVs. The app allowed users to browse and cast content from their mobile devices to their TVs, as well as control the TV using their mobile device as a remote. The app would connect via WiFi or Bluetooth to the TV. One of my proudest achievements there was being able to profile and optimize the app, going from a janky, slow experience to a buttery smooth and responsive one.
+        - Developed SmartCast, an Android-based remote control application for Vizio televisions, in Java and Kotlin
+        - Integrated Wifi and Bluetooth connectivity for communication with the television.
+        - Optimized app performance by reducing UI thread workload, leveraging Android Studio profiling tools to eliminate dropped frames.
+        - Launched and led Lunch \’n Learn, a company-wide knowledge-sharing program.
+
 
 skills:
   title: Skills &amp; Proficiency
