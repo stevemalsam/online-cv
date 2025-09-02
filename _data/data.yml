@@ -13,7 +13,7 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: stevemalsam + @ + stevemalsam.com
+  email: stevemalsam@stevemalsam.com
   timezone: America/Los_Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   website: https://stevemalsam.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: stevemalsam
